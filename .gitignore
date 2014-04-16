@@ -2,3 +2,4 @@
 *.pdb
 /CSharpSort/obj/x86/Debug/CSharpSort.csproj.FileListAbsolute.txt
 /CSharpSort/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/*.suo

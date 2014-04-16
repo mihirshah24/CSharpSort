@@ -49,7 +49,7 @@ namespace CSharpSort
         /// <param name="right">The right.</param>
         private static void DoMerge(IList<int> numbers, int left, int mid, int right)
         {
-            var temp = new List<int>(numbers.Count);
+            var temp = new int[numbers.Count];
 
             int leftEnd = (mid - 1);
             int tempPosition = left;
